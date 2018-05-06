@@ -1,0 +1,11 @@
+{
+  "name": "coin_query",
+  "version": "1.0.0",
+  "description": "query information about coins from binance api for past three days",
+  "main": "coin_query.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Ben",
+  "license": "MIT"
+}

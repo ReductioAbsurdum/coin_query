@@ -1,5 +1,5 @@
 //my Files:
-const funcs = require("./functions");
+const funcs = require("./functions/mainFunctions");
 const coins = require("./coins");
 
 var conditionals = process.argv[3] === "no" ? false : true;
